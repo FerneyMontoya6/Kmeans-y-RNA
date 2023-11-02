@@ -1,2 +1,2 @@
 # Kmeans-y-RNA
-ultimo taler evaluativo de Modelos 2
+ultimo taller evaluativo de Modelos 2
